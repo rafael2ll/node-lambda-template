@@ -19,6 +19,7 @@
     "@shelf/jest-dynamodb": "^2.1.0",
     "@types/jest": "^27.0.3",
     "@types/node": "^16.11.12",
+    "@types/aws-lambda": "^8.10.72",
     "jest": "^27.4.4",
     "ts-jest": "^27.1.1",
     "ts-node": "^10.4.0",
@@ -28,6 +29,6 @@
     "typescript": "^4.5.3"
   },
   "dependencies": {
-  
+    "source-map-support": "^0.5.19"
   }
 }
